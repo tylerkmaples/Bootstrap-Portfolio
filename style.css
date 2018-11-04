@@ -1,0 +1,80 @@
+body {
+    background-image: url(./images/dust_scratches.png);
+    padding-bottom: 70px;
+}
+
+nav {
+    padding: 0!important;
+}
+
+.navbar-collapse {
+    margin-right: 190px;
+}
+
+.navbar-brand {
+    background:#4aaaa5;
+    color: #ffffff!important;
+    padding: 10px;
+    font-size: 30px;
+    margin-left: 200px;
+}
+
+.container {
+    background: #ffffff;
+    margin-top: 30px;
+    padding: 20px;
+    overflow: auto;
+}
+
+.img-fluid {
+    width: 300px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#4aaaa5;
+    padding: 5px;
+    border-bottom: solid #dddddd;
+}
+
+.page-footer {
+    text-align: center!important;
+    color: grey;
+    font-size: 10px;
+    width: 100%;
+}
+
+.row {
+    width:100%;
+    overflow: auto;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.card {
+    position: relative;
+    border: none;
+}
+
+.card-body {
+    margin: 0 auto;
+    position: absolute;
+    background: slategray;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 10px;
+    bottom: 10px;
+
+}
+
+.btn {
+    background: #4aaaa5;
+    border: none;
+}
+
+.btn:hover {
+    background: #008080;
+}
